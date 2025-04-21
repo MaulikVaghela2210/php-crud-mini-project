@@ -78,3 +78,32 @@ GitHub: @MaulikVaghela2210
 git add .
 git commit -m "Added full CRUD project with README and database"
 git push origin main
+
+
+## Screenshots
+
+The following screenshots showcase different steps in the PHP CRUD mini project:
+
+1. [Database Connection](screenshots/db-connection.png)
+   - Screenshot of the database connection settings.
+   ![Database Connection](screenshots/db-connection.png)
+
+2. [Import Database](screenshots/import-db.png)
+   - Screenshot showing how to import the database in phpMyAdmin.
+   ![Import Database](screenshots/import-db.png)
+
+3. [Insert Data Form](screenshots/insert-form.png)
+   - Screenshot of the form used to insert student data into the system.
+   ![Insert Form](screenshots/insert-form.png)
+
+4. [View Data](screenshots/view-data.png)
+   - Screenshot of the page where you can view all students' data.
+   ![View Data](screenshots/view-data.png)
+
+5. [Update Data Form](screenshots/update-form.png)
+   - Screenshot of the form used to update student data.
+   ![Update Form](screenshots/update-form.png)
+
+6. [Delete Data](screenshots/delete-data.png)
+   - Screenshot of the delete confirmation for removing student data.
+   ![Delete Data](screenshots/delete-data.png)
